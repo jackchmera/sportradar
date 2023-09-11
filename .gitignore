@@ -3,3 +3,4 @@
 /logs/
 /vendor/
 /cache/
+/data/*
